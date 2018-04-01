@@ -6,7 +6,7 @@ var Config = {};
 
 // Server name
 // default: "audioload"
-Config.serverName = "Leviathan Networks HaloRP";
+Config.serverName = "Silver Titan Networks HaloRP";
 
 // Text background
 // Enable or disable text background
@@ -100,7 +100,7 @@ Config.backgroundColor = "#101010";
 
 // Loading screen messages
 Config.messages = [
-	"Welcome to Leviathan Networks!",
+	"Welcome to Silver Titan Networks!",
 	"Obey all the rules and have fun!",
 	"Enjoy your time here!"
 ];
